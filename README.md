@@ -6,12 +6,12 @@
 The Doctor's Appointment System is a web-based application designed to facilitate online appointment scheduling for medical establishments such as clinics or hospitals. It allows patients to request appointments with doctors and helps doctors manage their schedules. The system is divided into three main roles: Admin, Doctor, and Patient. Each role has specific functionalities to manage appointments, view schedules, and update personal details.
 
 ## Features
-
+![Snapshot 2](https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%283%29.png)
 ### Admin Side
 - Add, edit, and delete doctors.
 - Schedule new doctors' sessions and remove existing sessions.
 - View patient details and booking information.
-
+![Snapshot 3]((https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%289%29.png))
 ### Doctor Side
 - View their own appointments.
 - View scheduled sessions.
