@@ -129,7 +129,7 @@ This repository contains the source code for the Doctor's Appointment System. Fo
 
    Open your browser and go to:
    ```
-   http://localhost/edoc-echanneling-main/
+   http://localhost/edoc-doctor-appointment-system-main/
    ```
 
 ## Default User Accounts
