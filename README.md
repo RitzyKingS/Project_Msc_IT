@@ -91,24 +91,59 @@ For any questions or support, please contact the developer through GitHub.
 
 ---
 
-Feel free to modify or add additional details as needed.
+---
 
-Open your XAMPP Control Panel and start Apache and MySQL.
-Extract the downloaded source code zip file.
-Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
-Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
-Create a new database naming edoc.
-Import the provided SQL file. The file is known as SQL_Database_edoc.sql located inside the source code root folder.
-Browse the Doctor's Appointment System in a browser. i.e. http://localhost/edoc-echanneling-main/.
-DEFAULT USER ACCOUNTS OF THIS PROJECT
-ADMIN
-Email: admin@edoc.com
-Password: 123
+# Doctor's Appointment System
 
-Doctor
-Email: doctor@edoc.com
-Password: 123
+This repository contains the source code for the Doctor's Appointment System. Follow the instructions below to set up and run the project locally using XAMPP.
 
-Patient
-Email: patient@edoc.com
-Password: 123
+## Setup Instructions
+
+1. **Start XAMPP**
+
+   Open your XAMPP Control Panel and start the Apache and MySQL services.
+
+2. **Extract the Source Code**
+
+   Extract the downloaded source code zip file to a location on your computer.
+
+3. **Copy the Source Code**
+
+   Copy the extracted source code folder and paste it into the `htdocs` directory of your XAMPP installation. By default, this is located at:
+   ```
+   C:\xampp\htdocs
+   ```
+
+4. **Create a Database**
+
+   - Open your browser and navigate to [phpMyAdmin](http://localhost/phpmyadmin).
+   - Create a new database named `edoc`.
+
+5. **Import the SQL File**
+
+   - In phpMyAdmin, select the `edoc` database.
+   - Go to the `Import` tab.
+   - Choose the SQL file named `SQL_Database_edoc.sql` from the source code root folder and import it.
+
+6. **Access the Doctor's Appointment System**
+
+   Open your browser and go to:
+   ```
+   http://localhost/edoc-echanneling-main/
+   ```
+
+## Default User Accounts
+
+### Admin
+- **Email:** admin@edoc.com
+- **Password:** 123
+
+### Doctor
+- **Email:** doctor@edoc.com
+- **Password:** 123
+
+### Patient
+- **Email:** patient@edoc.com
+- **Password:** 123
+
+---
