@@ -16,8 +16,8 @@ The Doctor's Appointment System is a web-based application designed to facilitat
 - View their own appointments.
 - View scheduled sessions.
 - Access patient details.
-- Delete or edit their account settings.
-
+- Delete or edit their account settings. 
+![Snapshot 4]((https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%286%29.png))
 ### Patient Side
 - Create and manage their own accounts.
 - View past bookings.
@@ -64,18 +64,18 @@ The Doctor's Appointment System is a web-based application designed to facilitat
 - **Server Software**: Apache/2.4.39 (Win64) PHP/7.3.5
 
 - **Developer**: Hashen Udara
-  - [GitHub Profile](https://github.com/HashenUdara/)
+  - [GitHub Profile](https://github.com/RitzyKingS/)
 
 ## Screenshots
 
 *Add some relevant screenshots here to showcase the user interface and features of the system.*
 
-![Snapshot 1](path-to-snapshot1.png)
-![Snapshot 2](path-to-snapshot2.png)
+![Snapshot 1](https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%282%29.png) 
+![Snapshot 2](https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%288%29.png)
 
 ## Demo Video
 
-*Include a link to the demo video if available.*
+[Watch the Demo Video](https://youtu.be/mAWHYAHmit4)
 
 ## License
 
