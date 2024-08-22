@@ -11,13 +11,13 @@ The Doctor's Appointment System is a web-based application designed to facilitat
 - Add, edit, and delete doctors.
 - Schedule new doctors' sessions and remove existing sessions.
 - View patient details and booking information.
-![Snapshot 3]((https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%289%29.png))
+![Snapshot 3](https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%289%29.png)
 ### Doctor Side
 - View their own appointments.
 - View scheduled sessions.
 - Access patient details.
 - Delete or edit their account settings. 
-![Snapshot 4]((https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%286%29.png))
+![Snapshot 4](https://www.sourcecodester.com/sites/default/files/images/hshnudr/Screenshot%20%286%29.png)
 ### Patient Side
 - Create and manage their own accounts.
 - View past bookings.
