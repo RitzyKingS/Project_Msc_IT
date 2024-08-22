@@ -92,3 +92,23 @@ For any questions or support, please contact the developer through GitHub.
 ---
 
 Feel free to modify or add additional details as needed.
+
+Open your XAMPP Control Panel and start Apache and MySQL.
+Extract the downloaded source code zip file.
+Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
+Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+Create a new database naming edoc.
+Import the provided SQL file. The file is known as SQL_Database_edoc.sql located inside the source code root folder.
+Browse the Doctor's Appointment System in a browser. i.e. http://localhost/edoc-echanneling-main/.
+DEFAULT USER ACCOUNTS OF THIS PROJECT
+ADMIN
+Email: admin@edoc.com
+Password: 123
+
+Doctor
+Email: doctor@edoc.com
+Password: 123
+
+Patient
+Email: patient@edoc.com
+Password: 123
